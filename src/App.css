@@ -68,3 +68,13 @@
 .home-button:hover {
   transform: scale(1.2, 1.2);
 }
+
+.about {
+  width: 90%;
+  margin: 50px auto;
+}
+
+.poke {
+  width: 90%;
+  margin: 20px auto;
+}
